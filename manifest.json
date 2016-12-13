@@ -2,9 +2,9 @@
     "manifest_version": 2,
 
     "name": "Unlimited Waterloo Works",
-    "version": "0.1.420",
+    "version": "0.2.420",
     "author": "Disruptive Innovation",
-    "version_name": "0.1.420 alpha",
+    "version_name": "0.2.420 alpha",
 
     "description": "An unofficial extension to enhance, unlimit, and bring innovation to your WaterlooWorks experience.",
     "icons": {
@@ -36,6 +36,18 @@
                 "js/jquery-3.1.1.min.js",
                 "js/lodash.js",
                 "js/unlimitedwaterlooworks.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://waterlooworks.uwaterloo.ca/home.htm"
+            ],
+            "css": [
+            ],
+            "js": [
+                "js/jquery-3.1.1.min.js",
+                "js/lodash.js",
+                "js/homepage.js"
             ]
         }
     ],
