@@ -22,7 +22,18 @@
             'Yet those Jobs will never hold Return Offers.',
             'So, as I Pray--',
             'Unlimited WaterlooWorks!'
-        ]
+        ],
+        [
+            'I am the Compiler of my Code',
+            'C++ is my body and GCC is my blood',
+            'I have written over a thousand lines',
+            'Incomprehensible to me,',
+            'and to Others',
+            'Have withstood pain to graduate from ECE',
+            'Yet these hands will never hold a girl',
+            'So as I Pray--',
+            'Unlimited WaterlooWorks!',
+        ],
     ];
     var poem = _.sample(poems);
 
