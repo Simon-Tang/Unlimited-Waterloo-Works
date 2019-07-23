@@ -4,3 +4,5 @@
 I hope you enjoy this extension and get lots of job offers!  Please leave some suggestions in the Chrome Web Store!
 
 Installation: [Chrome Web Store](https://chrome.google.com/webstore/detail/unlimited-waterloo-works/mgdhpnklfaddomncncglmmcdbbojhcdm?hl=en-GB&gl=CA)
+
+(I made this while learning to write JS - sorry for using jQuery!)
